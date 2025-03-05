@@ -9,16 +9,6 @@
  
 ```
 
-## 👋 Hi, I’m @cgast
-
-Tinkering, Prototyping, DevOps, Fullstack, Prompting, Finetuning, RAG... always curious, sometimes creative.
-
-<div align="center">
-  <img src="https://www.cgast.de/static/img/cgast_small.png" alt="Christian Gast" width="150" style="border-radius: 50%;" />
-</div>
-
-## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.cgast.de">
     <img src="https://img.shields.io/badge/Interactive_CV-1095c1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Interactive CV" />
@@ -34,8 +24,10 @@ Tinkering, Prototyping, DevOps, Fullstack, Prompting, Finetuning, RAG... always 
   </a>
 </p>
 
-> [!NOTE]
-> I no longer use Xing, but my profile is still available [here](https://www.xing.com/profile/Christian_Gast).
+
+## 👋 Hi, I’m @cgast
+
+Tinkering, Prototyping, DevOps, Fullstack, Prompting, Finetuning, RAG... always curious, sometimes creative.
 
 ## 📚 Resources
 
@@ -44,24 +36,15 @@ Tinkering, Prototyping, DevOps, Fullstack, Prompting, Finetuning, RAG... always 
 ## 🛠️ Skills & Technologies
 
 ```text
-Frontend    ███████████████████░░   85%
+AI/LLM/RAG  ███████████████████░░   85%
 Backend     ██████████████████░░░   80%
-DevOps      ████████████████░░░░░   70%
+Frontend    ███████████████░░░░░░   65%
+DevOps      ███████████████░░░░░░   65%
 Database    ███████████████░░░░░░   65%
 ```
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cgast&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-## 📫 How to Reach Me
-
-Feel free to reach out through any of the social links above or send me a message through GitHub.
-
----
-
-<div align="center">
-  <sub>⭐ Don't forget to star repositories you find useful! ⭐</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=cgast&show_icons=true" alt="GitHub Stats" />
 </div>
