@@ -1,13 +1,14 @@
-```
+## Me in a Nutshell
 
- ██████╗ ██████╗  █████╗ ███████╗████████╗
-██╔════╝██╔════╝ ██╔══██╗██╔════╝╚══██╔══╝
-██║     ██║  ███╗███████║███████╗   ██║   
-██║     ██║   ██║██╔══██║╚════██║   ██║   
-╚██████╗╚██████╔╝██║  ██║███████║   ██║   
- ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   
- 
-```
+- 🧠 **Digital Strategist & AI Consultant** specializing in LLM implementation, RAG systems, and AI workflow tools
+- 💻 **Full-Stack Developer** with Python, JavaScript, SQL expertise and DevOps experience
+- 📊 **Data Analyst** skilled in data visualization and insights generation
+- 🏆 **Award-Winning Creator** (ADC Gold for "Bubbleversum" - an interactive filter bubble installation)
+- 👨‍💼 **Team Leader** with experience managing interdisciplinary teams of up to 30 people
+- 🎓 **AI Educator** conducting workshops for professionals across various industries
+- 🛠️ **Prototype Builder** developing MVPs from concept to implementation
+- 🌐 **Fluent in English and German** with experience in international collaboration
+
 
 <p align="center">
   <a href="https://www.cgast.de">
@@ -23,28 +24,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
-## 👋 Hi, I’m @cgast
-
-Tinkering, Prototyping, DevOps, Fullstack, Prompting, Finetuning, RAG... always curious, sometimes creative.
-
-## 📚 Resources
-
-- [**Prompt Collection**](https://cgast.github.io/prompts/) - Browse my collection of useful prompts for AI and development.
-
-## 🛠️ Skills & Technologies
-
-```text
-AI/LLM/RAG  ███████████████████░░   85%
-Backend     ██████████████████░░░   80%
-Frontend    ███████████████░░░░░░   65%
-DevOps      ███████████████░░░░░░   65%
-Database    ███████████████░░░░░░   65%
-```
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cgast&show_icons=true" alt="GitHub Stats" />
-</div>
